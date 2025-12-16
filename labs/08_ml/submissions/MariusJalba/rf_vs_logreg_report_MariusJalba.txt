@@ -1,0 +1,30 @@
+=== Random Forest ===
+              precision    recall  f1-score   support
+
+       Basal       0.30      0.38      0.33        40
+        Her2       0.35      0.20      0.26        44
+        LumA       0.52      0.70      0.60       136
+        LumB       0.30      0.26      0.28        92
+          NC       0.00      0.00      0.00         1
+      Normal       0.00      0.00      0.00        28
+ claudin-low       0.21      0.17      0.19        40
+
+    accuracy                           0.39       381
+   macro avg       0.24      0.24      0.24       381
+weighted avg       0.35      0.39      0.36       381
+
+
+=== Logistic Regression ===
+              precision    recall  f1-score   support
+
+       Basal       0.30      0.35      0.33        40
+        Her2       0.18      0.16      0.17        44
+        LumA       0.56      0.65      0.61       136
+        LumB       0.33      0.25      0.28        92
+          NC       0.00      0.00      0.00         1
+      Normal       0.04      0.04      0.04        28
+ claudin-low       0.23      0.25      0.24        40
+
+    accuracy                           0.38       381
+   macro avg       0.24      0.24      0.24       381
+weighted avg       0.36      0.38      0.37       381
