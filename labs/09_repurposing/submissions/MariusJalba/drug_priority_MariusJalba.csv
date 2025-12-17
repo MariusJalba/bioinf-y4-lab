@@ -1,0 +1,1240 @@
+drug,distance
+talazoparib,1.8
+sacituzumab govitecan,1.8
+olaparib,2.2
+nivolumab,2.2
+gefitinib,2.2
+erlotinib,2.2
+pembrolizumab,2.2
+lapatinib,2.2
+fluorouracil,2.2
+neratinib,2.2
+carboplatin,2.6
+trastuzumab,2.6
+irinotecan,2.6
+imatinib,2.6
+leucovorin,2.6
+peginterferon alfa-2b,2.6
+everolimus,2.6
+capivasertib,2.6
+cyclophosphamide,2.6
+tamoxifen,2.6
+ribavirin,2.6
+rucaparib,2.6
+sorafenib,2.6
+docetaxel,2.6
+capecitabine,2.6
+n-desmethyltamoxifen,3.0
+vemurafenib,3.0
+varenicline,3.0
+vandetanib,3.0
+warfarin,3.0
+zolbetuximab,3.0
+ziprasidone,3.0
+mirtazapine,3.0
+mianserin,3.0
+metoprolol,3.0
+modafinil,3.0
+oxazepam,3.0
+oxcarbazepine,3.0
+morphine-3-glucuronide,3.0
+morphine,3.0
+palbociclib,3.0
+oxycodone,3.0
+paroxetine,3.0
+palonosetron,3.0
+pazopanib,3.0
+pemetrexed,3.0
+allopurinol,3.0
+oxaliplatin,3.0
+alpelisib,3.0
+n-desmethylclozapine,3.0
+nortriptyline,3.0
+nordextropropoxyphene,3.0
+o-desmethyltramadol,3.0
+olanzapine,3.0
+omeprazole,3.0
+ondansetron,3.0
+nebivolol,3.0
+metformin,3.0
+methadone,3.0
+venlafaxine,3.0
+morphine-6-glucuronide,3.0
+tropisetron,3.0
+zidovudine,3.0
+zanidatamab,3.0
+letrozole,3.0
+letermovir,3.0
+pioglitazone,3.0
+pimozide,3.0
+pertuzumab,3.0
+ketorolac,3.0
+ixabepilone,3.0
+labetalol,3.0
+lamotrigine,3.0
+lansoprazole,3.0
+arformoterol,3.0
+aripiprazole,3.0
+aspirin,3.0
+tolterodine,3.0
+lamivudine,3.0
+quetiapine,3.0
+tramadol,3.0
+toremifene,3.0
+trastuzumab deruxtecan,3.0
+tranilast,3.0
+trastuzumab emtansine,3.0
+trazodone,3.0
+ibrutinib,3.0
+ibuprofen,3.0
+imipramine,3.0
+inavolisib,3.0
+indacaterol,3.0
+indinavir,3.0
+propafenone,3.0
+propranolol,3.0
+ribociclib,3.0
+ketoprofen,3.0
+galantamine,3.0
+gemcitabine,3.0
+granisetron,3.0
+haloperidol,3.0
+hydrocodone,3.0
+hydromorphone,3.0
+hydroxychloroquine,3.0
+trimipramine,3.0
+atazanavir,3.0
+atazanavir / ritonavir,3.0
+atenolol,3.0
+atomoxetine,3.0
+atorvastatin,3.0
+axitinib,3.0
+belinostat,3.0
+bepridil,3.0
+bevacizumab,3.0
+amiodarone,3.0
+anastrozole,3.0
+amitriptyline,3.0
+lovastatin,3.0
+maprotiline,3.0
+margetuximab,3.0
+losartan,3.0
+medroxyprogesterone,3.0
+leflunomide,3.0
+phenytoin,3.0
+methotrexate,3.0
+methylphenidate,3.0
+moxifloxacin,3.0
+tucatinib,3.0
+valproic acid,3.0
+raltitrexed,3.0
+raltegravir,3.0
+raloxifene-4′-glucuronide,3.0
+raloxifene 6-glucuronide,3.0
+raloxifene,3.0
+quinine,3.0
+quinidine,3.0
+fulvestrant,3.0
+formoterol,3.0
+fluvoxamine,3.0
+fluvastatin,3.0
+bleomycin,3.0
+bisoprolol,3.0
+binimetinib,3.0
+bilirubin,3.0
+flecainide,3.0
+bupropion,3.0
+buprenorphine,3.0
+brexpiprazole,3.0
+fluphenazine,3.0
+flupenthixol,3.0
+carbamazepine,3.0
+buspirone,3.0
+cabotegravir / rilpivirine,3.0
+risperidone,3.0
+carvedilol,3.0
+rocuronium,3.0
+ritonavir,3.0
+febuxostat,3.0
+flibanserin,3.0
+fluoxetine,3.0
+ranolazine,3.0
+selumetinib,3.0
+eltrombopag,3.0
+etoposide,3.0
+simvastatin,3.0
+endoxifen,3.0
+epirubicin,3.0
+eribulin,3.0
+sertindole,3.0
+escitalopram,3.0
+theophylline,3.0
+tipiracil / trifluridine,3.0
+tipifarnib,3.0
+tolperisone,3.0
+celecoxib,3.0
+celiprolol,3.0
+sertraline,3.0
+divalproex sodium,3.0
+dolasetron,3.0
+donepezil,3.0
+dolutegravir,3.0
+doxorubicin,3.0
+doxycycline,3.0
+dronedarone,3.0
+doxepin,3.0
+duloxetine,3.0
+efavirenz,3.0
+dextropropoxyphene,3.0
+elacestrant,3.0
+rosuvastatin,3.0
+fentanyl,3.0
+fesoterodine,3.0
+exemestane,3.0
+dabigatran,3.0
+sulfasalazine,3.0
+sufentanil,3.0
+diazepam,3.0
+desvenlafaxine,3.0
+dexamethasone,3.0
+dacarbazine,3.0
+deferasirox,3.0
+chlorpheniramine,3.0
+dextromethorphan,3.0
+chlorpromazine,3.0
+tamsulosin,3.0
+tegafur / gimeracil / oteracil,3.0
+terbinafine,3.0
+desipramine,3.0
+desmethyl clomipramine,3.0
+cisplatin,3.0
+tetrabenazine,3.0
+clopidogrel,3.0
+citalopram,3.0
+clozapine,3.0
+codeine,3.0
+colchicine,3.0
+clomipramine,3.0
+"3,4-methylenedioxymethamphetamine",3.0
+4-hydroxytamoxifen,3.0
+abemaciclib,3.0
+SN-38,3.0
+acetaminophen,3.0
+nefazodone,3.0
+nevirapine,3.0
+nilotinib,3.0
+niraparib,3.0
+FOLFIRI,3.0
+FOLFIRINOX,3.0
+viloxazine,3.0
+verapamil,3.4
+vernakalant,3.4
+vilazodone,3.4
+valganciclovir,3.4
+valinomycin,3.4
+norfentanyl,3.4
+noroxycodone,3.4
+mycophenolate mofetil,3.4
+coptisine,3.4
+corticosteroids,3.4
+clindamycin,3.4
+"3,4-dehydrocilostazol",3.4
+zonisamide,3.4
+cotinine,3.4
+uric acid,3.4
+vecuronium,3.4
+R101933,3.4
+vinblastine,3.4
+vincristine,3.4
+vindesine,3.4
+cyclobenzaprine,3.4
+cyclosporine,3.4
+clozapine n-oxide,3.4
+conjugated estrogens,3.4
+ivabradine,3.4
+ivermectin,3.4
+nimodipine,3.4
+Biricodar,3.4
+Cremophor EL,3.4
+nitrendipine,3.4
+7-hydroxy r-warfarin,3.4
+troleandomycin,3.4
+tegafur,3.4
+chlorzoxazone,3.4
+telithromycin,3.4
+temazepam,3.4
+temozolomide,3.4
+temsirolimus,3.4
+teniposide,3.4
+minocycline,3.4
+4-hydroxycyclophosphamide,3.4
+2-hydroxymethyl olanzapine,3.4
+XR9051,3.4
+Zosuquidar,3.4
+4-beta-hydroxycholesterol,3.4
+tafenoquine,3.4
+talinolol,3.4
+taxanes,3.4
+7-hydroxy s-warfarin,3.4
+Actinomycines,3.4
+Valspodar,3.4
+OC144-093,3.4
+nelfinavir,3.4
+nicardipine,3.4
+nifedipine,3.4
+cyanocobalamin,3.4
+mycophenolic acid,3.4
+acalabrutinib,3.4
+acebutolol,3.4
+aceclofenac,3.4
+acenocoumarol,3.4
+acetaminophen / caffeine / dihydrocodeine,3.4
+S-EDDP,3.4
+Tariquidar,3.4
+methoxyflurane,3.4
+nabumetone,3.4
+nafcillin,3.4
+demeclocycline,3.4
+desloratadine,3.4
+desmethyl olanzapine,3.4
+dapoxetine,3.4
+dapsone,3.4
+afatinib,3.4
+agomelatine,3.4
+albendazole,3.4
+naproxen,3.4
+nateglinide,3.4
+noroxymorphone,3.4
+oliceridine,3.4
+mexiletine,3.4
+cyproterone,3.4
+cytarabine,3.4
+meloxicam,3.4
+alectinib,3.4
+alfentanil,3.4
+peginterferon alfa-2a,3.4
+paclitaxel,3.4
+paliperidone,3.4
+sunitinib,3.4
+tacrolimus,3.4
+diclofenac acyl glucuronide,3.4
+dicloxacillin,3.4
+darifenacin,3.4
+darunavir,3.4
+daunorubicin,3.4
+debrisoquine,3.4
+digoxin,3.4
+dihydrocodeine,3.4
+sulfadiazine,3.4
+sulfamethazine,3.4
+sulfamethoxazole,3.4
+sulfamethoxazole / trimethoprim,3.4
+sulfinpyrazone,3.4
+ticlopidine,3.4
+sulfisoxazole,3.4
+sotalol,3.4
+sparfloxacin,3.4
+sparteine,3.4
+spironolactone,3.4
+st. john's wort,3.4
+stavudine,3.4
+diethylstilbestrol,3.4
+dronabinol,3.4
+drospirenone / ethinyl estradiol,3.4
+dextromethorphan / quinidine,3.4
+dextromethorphan hydrobromide / bupropion hydrochloride,3.4
+diclofenac,3.4
+solanidine,3.4
+durvalumab,3.4
+econazole,3.4
+daptomycin,3.4
+cilostazol,3.4
+cimetidine,3.4
+tadalafil,3.4
+deuruxolitinib,3.4
+deutetrabenazine,3.4
+dexrazoxane,3.4
+elacridar,3.4
+meperidine,3.4
+mephenytoin,3.4
+opipramol,3.4
+oseltamivir,3.4
+osimertinib,3.4
+panitumumab,3.4
+pantoprazole,3.4
+ospemifene,3.4
+loperamide,3.4
+lopinavir,3.4
+loratadine,3.4
+lorazepam,3.4
+lornoxicam,3.4
+leuprolide,3.4
+melphalan,3.4
+memantine,3.4
+amivantamab,3.4
+levetiracetam,3.4
+levofloxacin,3.4
+levomepromazine,3.4
+lidocaine,3.4
+lithium,3.4
+amoxicillin,3.4
+lonafarnib,3.4
+timolol,3.4
+tiotropium,3.4
+tipranavir,3.4
+tolbutamide,3.4
+cefadroxil,3.4
+cefradine,3.4
+ceftriaxone,3.4
+cefuroxime,3.4
+eliglustat,3.4
+enalapril,3.4
+salmeterol,3.4
+silibinin,3.4
+simvastatin acid,3.4
+siponimod,3.4
+sirolimus,3.4
+seladelpar,3.4
+saxagliptin,3.4
+ethosuximide,3.4
+ethylmorphine,3.4
+etrasimod,3.4
+sevoflurane,3.4
+sibutramine,3.4
+sildenafil,3.4
+eletriptan,3.4
+cevimeline,3.4
+domperidone,3.4
+dorzolamide,3.4
+diltiazem,3.4
+dipyridamole,3.4
+dipyrone,3.4
+disopyramide,3.4
+saquinavir,3.4
+oxiconazole,3.4
+oxprenolol,3.4
+oxymorphone,3.4
+ticagrelor,3.4
+disulfiram,3.4
+cemiplimab-rwlc,3.4
+cephalexin,3.4
+cetuximab,3.4
+ropivacaine,3.4
+rosiglitazone,3.4
+ruxolitinib,3.4
+rifapentine,3.4
+rimegepant,3.4
+flucloxacillin,3.4
+felbamate,3.4
+remifentanil,3.4
+ripretinib,3.4
+ritalinic acid,3.4
+rituximab,3.4
+eszopiclone,3.4
+ethambutol,3.4
+ethinyl estradiol,3.4
+rivaroxaban,3.4
+romidepsin,3.4
+calcein,3.4
+budesonide,3.4
+bufuralol,3.4
+ethinyl estradiol / norelgestromin,3.4
+rifabutin,3.4
+rifampin,3.4
+cariprazine,3.4
+cefaclor,3.4
+selegiline,3.4
+thioridazine,3.4
+thiotepa,3.4
+erdafitinib,3.4
+erythromycin,3.4
+esomeprazole,3.4
+tetracycline,3.4
+cabozantinib,3.4
+amprenavir,3.4
+antiepileptics,3.4
+amisulpride,3.4
+fexofenadine,3.4
+bromperidol,3.4
+fluoxetine / olanzapine,3.4
+fluoxetine glucuronide,3.4
+flurbiprofen,3.4
+perhexiline,3.4
+permethrin,3.4
+amlodipine,3.4
+amoxapine,3.4
+aliskiren,3.4
+alprazolam,3.4
+ambrisentan,3.4
+ampicillin,3.4
+phenothiazines with aliphatic side-chain,3.4
+phenprocoumon,3.4
+lazertinib,3.4
+lenalidomide,3.4
+lesinurad,3.4
+phenylbutazone,3.4
+pindolol,3.4
+piroxicam,3.4
+fludarabine,3.4
+fluindione,3.4
+flunitrazepam,3.4
+felodipine,3.4
+fenofibrate,3.4
+meclizine,3.4
+perphenazine,3.4
+phenobarbital,3.4
+reserpine,3.4
+rhodamine 123,3.4
+ramucirumab,3.4
+ranitidine,3.4
+propofol,3.4
+propoxyphene,3.4
+protriptyline,3.4
+pyrazinamide,3.4
+benzbromarone,3.4
+benzphetamine,3.4
+berberine,3.4
+regorafenib,3.4
+forskolin,3.4
+fosamprenavir,3.4
+fosphenytoin,3.4
+repaglinide,3.4
+betaxolol,3.4
+bevantolol,3.4
+avatrombopag,3.4
+azathioprine,3.4
+bexarotene,3.4
+bisantrene,3.4
+blonanserin,3.4
+boceprevir,3.4
+flutamide,3.4
+fluticasone propionate,3.4
+fluconazole,3.4
+busulfan,3.4
+cabazitaxel,3.4
+bosentan,3.4
+brivaracetam,3.4
+bromazepam,3.4
+gramicidin d,3.4
+griseofulvin,3.4
+hdl cholesterol,3.4
+hormonal contraceptives for systemic use,3.4
+gliclazide,3.4
+atezolizumab,3.4
+hydrocortisone,3.4
+hydroxocobalamin,3.4
+lumefantrine,3.4
+lumiracoxib,3.4
+macitentan,3.4
+lofexidine,3.4
+penbutolol,3.4
+penicillin v,3.4
+pentazocine,3.4
+maraviroc,3.4
+isoniazid,3.4
+apixaban,3.4
+aripiprazole lauroxil,3.4
+arteether,3.4
+artemether,3.4
+artemisinin,3.4
+mefloquine,3.4
+losartan E-3174,3.4
+glimepiride,3.4
+glipizide,3.4
+gliquidone,3.4
+glucocorticoids,3.4
+glyburide,3.4
+goserelin,3.4
+geldanamycin,3.4
+ketoconazole,3.4
+promethazine,3.4
+ipilimumab,3.4
+irbesartan,3.4
+pitavastatin,3.4
+pitolisant,3.4
+isotretinoin,3.4
+isradipine,3.4
+itraconazole,3.4
+idarubicin,3.4
+ifosfamide,3.4
+pravastatin,3.4
+prazosin,3.4
+prednisolone,3.4
+prednisone,3.4
+primaquine,3.4
+proguanil,3.4
+triazolam,3.4
+triglycerides,3.4
+trimethadione,3.4
+trimethoprim,3.4
+indomethacin,3.4
+posaconazole,3.4
+prasugrel,3.4
+hydroxyzine,3.4
+hydroxyamitriptyline,3.4
+hydroxyphenytoin,3.4
+astemizole,3.4
+topiramate,3.4
+topotecan,3.4
+iloperidone,3.4
+tremelimumab,3.4
+tretinoin,3.4
+terfenadine,3.4
+testosterone,3.4
+clonazepam,3.4
+clonidine,3.4
+clotrimazole,3.4
+ciprofloxacin,3.4
+cisapride,3.4
+dacomitinib,3.4
+umeclidinium / vilanterol,3.4
+umifenovir,3.4
+upadacitinib,3.4
+tenofovir,3.4
+clarithromycin,3.4
+tenoxicam,3.4
+tepotinib,3.4
+terazosin,3.4
+miconazole,3.4
+midazolam,3.4
+mifepristone,3.4
+valbenazine,3.4
+acetaminophen / codeine,3.4
+troglitazone,3.4
+vardenafil,3.4
+umeclidinium,3.4
+mirabegron,3.4
+mitomycin,3.4
+methylprednisolone,3.4
+metoclopramide,3.4
+metyrapone,3.4
+mitoxantrone,3.4
+mobocertinib,3.4
+montelukast,3.4
+"n,o-didesmethyltramadol",3.4
+n-desmethyltramadol,3.4
+voriconazole,3.4
+vortioxetine,3.4
+xanomeline / trospium,3.4
+yohimbine,3.4
+zafirlukast,3.4
+zolpidem,3.4
+zuclopenthixol,3.4
+abrocitinib,3.4
+zanubrutinib,3.8
+11alpha-hydroxytestosterone,3.8
+11a-hydroxyprogesterone,3.8
+(S)-methadone,3.8
+16alpha-hydroxytestosterone,3.8
+zoledronate,3.8
+16alpha-hydroxyprogesterone,3.8
+norethindrone,3.8
+coumarin,3.8
+normeperidine,3.8
+venetoclax,3.8
+"3,5-dimethyl-2-(3-pyridyl)thiazolidin-4-one",3.8
+Bisphosphonates,3.8
+FOLFOX,3.8
+Opioid anesthetics,3.8
+R-EDDP,3.8
+Glucarpidase,3.8
+nitrous oxide,3.8
+platinum,3.8
+hydroxyprogesterone,3.8
+lacosamide,3.8
+pyrimethamine,3.8
+ginkgo biloba extract,3.8
+ketamine,3.8
+atrasentan,3.8
+hydroxybupropion,3.8
+gemtuzumab ozogamicin,3.8
+hydralazine,3.8
+tranylcypromine,3.8
+asparaginase,3.8
+benazepril,3.8
+icotinib,3.8
+l-methylfolate,3.8
+lovastatin acid,3.8
+lafutidine,3.8
+mavacamten,3.8
+artesunate,3.8
+estrone,3.8
+dimethyl fumarate,3.8
+levothyroxine,3.8
+cerivastatin,3.8
+mitotane,3.8
+pamidronate,3.8
+levodopa,3.8
+chlorambucil,3.8
+ezetimibe / simvastatin,3.8
+ezetimibe,3.8
+ezetimibe / rosuvastatin,3.8
+androstenedione,3.8
+amlodipine / atorvastatin / perindopril arginine,3.8
+amodiaquine,3.8
+fluorouracil / salicylic acid,3.8
+flucytosine,3.8
+phenazepam,3.8
+pirtobrutinib,3.8
+pilocarpine,3.8
+belzutifan,3.8
+betaine,3.8
+brivanib,3.8
+azacitidine,3.8
+furosemide,3.8
+rabeprazole,3.8
+resmetirom,3.8
+ranibizumab,3.8
+etravirine,3.8
+diphenhydramine,3.8
+estrone sulfate,3.8
+carbidopa,3.8
+caspofungin,3.8
+carisoprodol,3.8
+famotidine,3.8
+3-cyano-7-ethoxycoumarin,3.8
+chloramphenicol,3.8
+volatile anesthetics,3.8
+abacavir,3.8
+XELOX,3.8
+metronidazole,3.8
+moclobemide,3.8
+methylphenobarbital,3.8
+mercaptopurine,3.8
+desoxycortone,3.8
+norclobazam,3.8
+olmesartan,3.8
+methoxsalen,3.8
+aflibercept,3.8
+pegaptanib,3.8
+aminoglycoside antibacterials,3.8
+aflatoxin b1,3.8
+pegaspargase,3.8
+efavirenz / emtricitabine / tenofovir disoproxil,3.8
+dulaglutide,3.8
+dexlansoprazole,3.8
+4-hydroxyestradiol,3.8
+6beta-hydroxyprogesterone,3.8
+6beta-hydroxytestosterone,3.8
+vinorelbine,3.8
+dasatinib,3.8
+dactinomycin,3.8
+clopidogrel thiol metabolite H4,3.8
+clobazam,3.8
+valsartan,3.8
+telmisartan,3.8
+3-hydroxycotinine,3.8
+thalidomide,3.8
+dexmedetomidine,3.8
+elagolix,3.8
+streptomycin,3.8
+l-arginine,4.2
+trandolapril,4.2
+tovorafenib,4.2
+trichloroethylene,4.2
+latanoprost,4.2
+cobimetinib,4.2
+Antithyroid Preparations,4.2
+polatuzumab vedotin,4.2
+infliximab,4.2
+crizotinib,4.2
+cosibelimab,4.2
+adefovir dipivoxil,4.2
+zidovudine / lamivudine / abacavir,4.2
+interferon beta-1b,4.2
+"interferon alfa-2a, recombinant",4.2
+interferons,4.2
+trametinib,4.2
+isoniazid / pyrazinamide / rifampin,4.2
+lusutrombopag,4.2
+interferon beta-1a,4.2
+maralixibat,4.2
+thioguanosine diphosphate,4.2
+lorlatinib,4.2
+diuretics,4.2
+ensartinib,4.2
+sacubitril,4.2
+s-adenosylmethionine,4.2
+ceritinib,4.2
+relugolix / estradiol / norethindrone acetate,4.2
+etanercept,4.2
+carbimazole,4.2
+canakinumab,4.2
+bucillamine,4.2
+thioguanosine monophosphate,4.2
+thioguanosine triphosphate,4.2
+salvianolic acid b,4.2
+encorafenib,4.2
+rilonacept,4.2
+brentuximab vedotin,4.2
+fruquintinib,4.2
+avelumab,4.2
+propylthiouracil,4.2
+remimazolam,4.2
+quinapril,4.2
+quizartinib,4.2
+brigatinib,4.2
+antithymocyte globulin,4.2
+amifampridine,4.2
+ponatinib,4.2
+flupirtine,4.2
+anakinra,4.2
+lamivudine / abacavir,4.2
+gilteritinib,4.2
+procainamide,4.2
+penicillin g,4.2
+glatiramer acetate,4.2
+hydralazine / isosorbide dinitrate,4.2
+amifampridine phosphate,4.2
+nivolumab / relatlimab,4.2
+aldophosphamide,4.2
+odevixibat,4.2
+solithromycin,4.2
+dolutegravir / abacavir / lamivudine,4.2
+sotorasib,4.2
+thioguanine,4.2
+methimazole,4.2
+methazolamide,4.2
+dabrafenib,4.2
+tislelizumab,4.2
+adalimumab,4.2
+adagrasib,4.2
+acetylcysteine,4.2
+acetazolamide,4.2
+vitamin a,4.2
+vancomycin,4.2
+tenofovir disoproxil fumarate,4.2
+clavulanate,4.2
+dicumarol,4.2
+daniquidone,4.2
+midostaurin,4.2
+naltrexone,4.2
+tocilizumab,4.2
+doxorubicinol,4.2
+deoxy-thioguanosine triphosphate,4.2
+cladribine,4.2
+chloroacetaldehyde,4.2
+2-oxo-clopidogrel,4.2
+tetanus antitoxin,4.2
+tebentafusp,4.2
+17beta-estradiol glucuronide,4.2
+ustekinumab,4.2
+Antihypertensives And Diuretics In Combination,4.2
+Antihypertensives,4.2
+nimesulide,4.6
+nadolol,4.6
+naloxone,4.6
+omacetaxine,4.6
+ombitasvir / paritaprevir / ritonavir,4.6
+olanzapine 10-n-glucuronide,4.6
+olaratumab,4.6
+motesanib,4.6
+mivacurium,4.6
+milnacipran,4.6
+blinatumomab,4.6
+bosutinib,4.6
+avapritinib,4.6
+trifluridine,4.6
+asciminib,4.6
+aprepitant,4.6
+cefotaxime,4.6
+tipiracil hydrochloride,4.6
+tianeptine,4.6
+cannabinoids,4.6
+calcidiol,4.6
+calcipotriol,4.6
+calcitriol,4.6
+calcium,4.6
+buprenorphine / naloxone,4.6
+dasabuvir / ombitasvir / paritaprevir / ritonavir,4.6
+daclatasvir,4.6
+cotinine glucuronide,4.6
+clozapine 5-N-glucuronide,4.6
+clodronate,4.6
+telaprevir,4.6
+tamoxifen-n-glucuronide,4.6
+chloroprocaine,4.6
+mipomersen,4.6
+oxymetazoline and tetracaine,4.6
+mepolizumab,4.6
+direct acting antivirals,4.6
+difluorodeoxyuridine,4.6
+sulindac,4.6
+sumatriptan,4.6
+"synthetic conjugated estrogens, A",4.6
+succinylcholine,4.6
+sofosbuvir / velpatasvir / voxilaprevir,4.6
+desmethylclozapine glucuronide,4.6
+deferiprone,4.6
+deleobuvir,4.6
+dasabuvir,4.6
+entrectinib,4.6
+sofosbuvir,4.6
+sofosbuvir / velpatasvir,4.6
+simeprevir,4.6
+sipoglitazar,4.6
+selpercatinib,4.6
+elbasvir / grazoprevir,4.6
+drotrecogin alfa,4.6
+faldaprevir,4.6
+evinacumab,4.6
+evodiamine,4.6
+etodolac,4.6
+etoricoxib,4.6
+rofecoxib,4.6
+rivastigmine,4.6
+ertugliflozin,4.6
+estradiol / progesterone,4.6
+estrogens,4.6
+lomitapide,4.6
+levomethadone,4.6
+levomilnacipran,4.6
+pemigatinib,4.6
+ledipasvir,4.6
+ledipasvir / sofosbuvir,4.6
+leniolisib,4.6
+itopride,4.6
+repotrectinib,4.6
+isoflurane,4.6
+inotuzumab ozogamicin,4.6
+"interferon alfa-2b, recombinant",4.6
+pyridoxal phosphate,4.6
+pralsetinib,4.6
+inclisiran,4.6
+(R)-methadone,4.6
+voxilaprevir,4.6
+Ergot alkaloids,4.6
+FEC100,4.6
+Antiemetics And Antinauseants,4.6
+Coxibs,4.6
+ABT-751,4.6
+Analgesics,4.6
+Anticholinergics,4.6
+nirogacestat,4.6
+"antiinflammatory and antirheumatic products, non-steroids",4.6
+amantadine,4.6
+alemtuzumab,4.6
+alendronate,4.6
+alirocumab,4.6
+velpatasvir,4.6
+valdecoxib,4.6
+Sympathomimetics,4.6
+nalidixic acid,5.0
+XK469,5.0
+abciximab,5.0
+nemonapride,5.0
+Vitamin B-complex with vitamin C,5.0
+Vitamin K1,5.0
+3-aminopyridine-2-carboxaldehyde thiosemicarbazone,5.0
+nicorandil,5.0
+ofloxacin,5.0
+muraglitazar,5.0
+acetaminophen / tramadol,5.0
+acetylcholine,5.0
+norfloxacin,5.0
+acamprosate,5.0
+probenecid,5.0
+probucol,5.0
+pramipexole,5.0
+imidapril,5.0
+pyrilamine,5.0
+quinacrine,5.0
+prochlorperazine,5.0
+prenylamine,5.0
+prilocaine,5.0
+isoproterenol,5.0
+isosorbide dinitrate,5.0
+isosorbide mononitrate,5.0
+fremanezumab,5.0
+furazolidone,5.0
+cortisone acetate,5.0
+clofibrate,5.0
+db-289,5.0
+danazol,5.0
+dantrolene,5.0
+captopril,5.0
+calcium channel blockers,5.0
+catecholamines,5.0
+carbasalate calcium,5.0
+candesartan,5.0
+cangrelor,5.0
+thioxanthine,5.0
+carmustine,5.0
+certolizumab pegol,5.0
+tirofiban,5.0
+tolazamide,5.0
+tiludronate,5.0
+mepivacaine,5.0
+methylcholanthrene,5.0
+methylene blue,5.0
+mesalazine,5.0
+mesoridazine,5.0
+metabutethamine,5.0
+methacholine,5.0
+pegloticase,5.0
+pamaquine,5.0
+minoxidil,5.0
+metyrosine,5.0
+mibefradil,5.0
+methysergide,5.0
+metreleptin,5.0
+cholic acid,5.0
+cidofovir,5.0
+chlorocresol,5.0
+chloroquine,5.0
+chlorproguanil,5.0
+terbutaline,5.0
+terodiline,5.0
+tapentadol,5.0
+chlorpropamide,5.0
+chlorthalidone,5.0
+fenoterol,5.0
+rasburicase,5.0
+ravulizumab,5.0
+regadenoson,5.0
+ramipril,5.0
+rasagiline,5.0
+galcanezumab,5.0
+hydrochlorothiazide,5.0
+grepafloxacin,5.0
+halothane,5.0
+heparin,5.0
+glycerol phenylbutyrate,5.0
+larotrectinib,5.0
+l-methionine,5.0
+l-tryptophan,5.0
+ketanserin,5.0
+pergolide,5.0
+perindopril,5.0
+lecanemab,5.0
+laropiprant,5.0
+lidocaine / prilocaine,5.0
+lidocaine and tetracaine,5.0
+phenylephrine,5.0
+phenazopyridine,5.0
+lidoflazine,5.0
+liothyronine,5.0
+liraglutide,5.0
+lisinopril,5.0
+levomethadyl acetate,5.0
+esmolol,5.0
+eptifibatide,5.0
+erenumab,5.0
+enflurane,5.0
+ritodrine,5.0
+rizatriptan,5.0
+risedronate,5.0
+erythromycin ethylsuccinate / sulfisoxazole acetyl,5.0
+etoposide catechol,5.0
+rozanolixizumab,5.0
+desflurane,5.0
+succimer,5.0
+somatropin recombinant,5.0
+diazoxide,5.0
+dextroamphetamine,5.0
+sulfacetamide,5.0
+sulfadoxine,5.0
+sulfametopyrazine,5.0
+sulfanilamide,5.0
+donanemab,5.0
+dobutamine,5.0
+dihydroergotamine,5.0
+dimercaprol,5.0
+didanosine,5.0
+mavorixafor,5.0
+lutetium (177Lu) vipivotide tetraxetan,5.0
+mafenide,5.0
+lurasidone,5.0
+orciprenaline,5.0
+menadione sodium bisulfite,5.0
+ropinirole,5.0
+fampridine,5.0
+etidronic acid,5.0
+etonogestrel,5.0
+efgartigimod alfa,5.0
+eculizumab,5.0
+droperidol,5.0
+dofetilide,5.0
+setmelanotide,5.0
+salbutamol,5.0
+sodium oxybate,5.0
+sodium phenylbutyrate,5.0
+sitagliptin,5.0
+enfortumab vedotin,5.0
+entacapone,5.0
+ephedrine,5.0
+sitamaquine,5.0
+sodium ascorbate,5.0
+sodium benzoate / sodium phenylacetate,5.0
+sodium nitrate,5.0
+desmethylnaproxen,5.0
+aducanumab,5.0
+vildagliptin,5.0
+angiotensin II,5.0
+aminohippurate,5.0
+aminosalicylic acid,5.0
+Antibiotics,5.0
+nitrofurantoin,5.0
+nitrofurazone,5.0
+nitroglycerin,5.0
+nitroprusside,5.0
+Calcium channel blockers,5.0
+vitamin c,5.0
+Methyldopa,5.0
+Pyrazolones,5.0
+Quinolone Antibacterials,5.0
+zilucoplan,5.0
+vorinostat,5.0
+torasemide,5.0
+articaine / epinephrine,5.0
+arachidonic acid,5.0
+arsenic trioxide,5.0
+trihexyphenidyl,5.0
+trifluoperazine,5.0
+toluidine blue,5.0
+bisoprolol fumarate / perindopril arginine,5.0
+bortezomib,5.0
+benztropine,5.0
+butorphanol,5.0
+cabergoline,5.0
+bucindolol,5.0
+bumetanide,5.0
+bupivacaine,5.0
+botulinum toxin type a,5.0
+bradykinin,5.0
+brimonidine,5.0
+moviprep,5.0
+mirvetuximab soravtansine,5.0
+mizolastine,5.4
+triamcinolone,5.4
+tositumomab,5.4
+triamterene,5.4
+zinc acetate,5.4
+zenocutuzumab,5.4
+amiloride,5.4
+8-oxo-dGTP,5.4
+ibritumomab,5.4
+farglitazar,5.4
+insulin recombinant,5.4
+nedocromil,5.4
+capmatinib,5.4
+methoxamine,5.4
+flunisolide,5.4
+gabapentin,5.4
+ofatumumab,5.4
+pregnenolone,5.4
+acyclovir,5.4
+pregabalin,5.4
+olezarsen,5.4
+obinutuzumab,5.4
+pranlukast,5.4
+zileuton,5.4
+abiraterone,5.4
+dibekacin,5.8
+kanamycin,5.8
+enasidenib,5.8
+paromomycin,5.8
+dihydrostreptomycin,5.8
+netilmicin,5.8
+gentamicin,5.8
+ribostamycin,5.8
+micronomicin,5.8
+isepamicin,5.8
+futibatinib,5.8
+ivosidenib,5.8
+infigratinib,5.8
+amikacin,5.8
+tobramycin,5.8
+hygromycin b,5.8
+nnk,5.8
+olutasidenib,5.8
+plazomicin,5.8
+acetaldehyde,5.8
+neomycin,5.8
+vorasidenib,5.8
+elexacaftor / tezacaftor / ivacaftor,6.0
+eplontersen,6.0
+emapalumab,6.0
+Enzymes,6.0
+mitapivat,6.0
+viltolarsen,6.0
+Immunoglobulins,6.0
+vutrisiran,6.0
+voxelotor,6.0
+elexacaftor,6.0
+triheptanoin,6.0
+arimoclomol,6.0
+nppb,6.0
+alglucosidase alfa,6.0
+anifrolumab,6.0
+nusinersen,6.0
+elosulfase alfa,6.0
+dalcetrapib,6.0
+isatuximab,6.0
+pitrakinra,6.0
+ganaxolone,6.0
+levacetylleucine,6.0
+luspatercept,6.0
+eplerenone,6.0
+l-phenylalanine,6.0
+dichloroacetic acid,6.0
+risdiplam,6.0
+sacrosidase,6.0
+eteplirsen,6.0
+desmopressin,6.0
+lutetium (177Lu) oxodotreotide,6.0
+denileukin diftitox,6.0
+latonduine a,6.0
+ecallantide,6.0
+roflumilast,6.0
+ropeginterferon alfa-2b,6.0
+lumacaftor,6.0
+dinutuximab,6.0
+patisiran,6.0
+lumasiran,6.0
+mecasermin,6.0
+eflornithine,6.0
+givosiran,6.0
+golodirsen,6.0
+revumenib,6.0
+tafamidis,6.0
+genistein,6.0
+"gonadotropin,chorionic",6.0
+hydroxyurea,6.0
+velaglucerase alfa,6.0
+fructose,6.0
+cavosonstat,6.0
+corr-4a,6.0
+tezacaftor,6.0
+thiazolidinediones,6.0
+thyrotropin alfa,6.0
+carbocisteine,6.0
+cerliponase alfa,6.0
+timbetasin,6.0
+tofersen,6.0
+casimersen,6.0
+menotropins,6.0
+creatine,6.0
+crizanlizumab-tmca,6.0
+cysteamine,6.0
+nedosiran,6.0
+urofollitropin,6.0
+ivacaftor / lumacaftor,6.0
+ivacaftor,6.0
+fosdenopterin,6.0
+follitropin beta,6.0
+inotersen,6.0
+ivacaftor / tezacaftor,6.0
+imiquimod,6.0
+nutlin-3,6.0
+belimumab,6.0
+vanzacaftor / tezacaftor / deutivacaftor,6.0
+trofinetide,6.0
+ataluren,6.0
+migalastat,6.0
+daunorubicinol,6.2
+satralizumab,6.2
+carglumic acid,7.0
+chlorothiazide,7.0
+alpha-MSH,7.0
+inebilizumab,7.0
